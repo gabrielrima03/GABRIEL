@@ -1,4 +1,4 @@
-    1  ls
+ 1  ls
     2  ls -al
     3  cd documents
     4  cd ..
@@ -93,4 +93,3 @@
    93  cd documents
    94  touch history
    95  history
-
