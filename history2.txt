@@ -93,3 +93,77 @@
    93  cd documents
    94  touch history
    95  history
+   96  cd GABRIEL
+   97  cd gabrielrima03
+   98  cd documents
+   99  cd RIMA
+  100  ls
+  101  touch history.txt
+  102  start history.txt
+  103  git status
+  104  git add .
+  105  git status
+  106  git commit -m "second message"
+  107  git push
+  108  ls
+  109  start history.txt
+  110  git status
+  111  git add .
+  112  git commit -m "third commit"
+  113  git push
+  114  git status
+  115  git status
+  116  git add .
+  117  git status
+  118  git commit -m "third commit"
+  119  git push
+  120  git pull
+  121  git pull history.txt
+  122  git rm history.txt
+  123  git status
+  124  ls
+  125  touch history.txt
+  126  start history.txt
+  127  git commit -m "third commit"
+  128  git add .
+  129  git status
+  130  git commit -m "third commit"
+  131  git push
+  132  ls
+  133  git clone https://github.com/gabrielrima03/GABRIEL.git
+  134  ls
+  135  cd GABRIEL
+  136  ls
+  137  touch history1
+  138  touch history1.txt
+  139  start history1
+  140  start history1.txt
+  141  git status
+  142  git add .
+  143  git commit -m "third commit"
+  144  git push
+  145  history
+  146  git add .
+  147  git status
+  148  git commit "third commit"
+  149  git push
+  150  cd documets
+  151  cd documents
+  152  cd GABRIEL
+  153  cd RIMA
+  154  ls
+  155  cd GABRIEL
+  156  ls
+  157  start history1.txt
+  158  git status
+  159  git add .
+  160  git commit -m "third commit"
+  161  git clone https://github.com/gabrielrima03/GABRIEL.git
+  162  cd documents
+  163  touch historyy.txt
+  164  start historyy.txt
+  165  git status
+  166  git add .
+  167  cd documents
+  168  git clone https://github.com/gabrielrima03/GABRIEL.git
+  169  history
